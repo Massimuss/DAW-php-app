@@ -1,3 +1,5 @@
 <?php
-echo "Això és la versió bàsica de nou.php a main";
+echo "Això és la versió combinada de nou.php, amb canvis de main i develop";
+// Es pot incloure tant el contingut de main com el de develop si vols combinar-los:
+echo "Línia afegida a develop per provocar conflicte";
 ?>
